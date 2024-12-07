@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">RafalTekielskiBMICalculator</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="calculate">Calculate</string>
+    <string name="back">Back</string>
+    <string name="underweight">Underweight</string>
+    <string name="healthy">Healthy</string>
+    <string name="bmi_calculator">BMI CALCULATOR</string>
+    <string name="enter_weight_kg">Enter weight (kg)</string>
+    <string name="enter_height_cm">Enter height (cm)</string>
+    <string name="calculate_my_bmi">Calculate my BMI</string>
+    <string name="your_bmi_2f">Your BMI: %.2f</string>
+    <string name="healthy_weight">Healthy Weight</string>
+    <string name="overweight">Overweight</string>
+    <string name="obesity">Obesity</string>
+    <string name="image_representing_bmi_category">Image representing BMI category</string>
+    <string name="category_will_be_displayed_here">Category will be displayed here</string>
+    <string name="bmi_will_be_displayed_here">BMI will be displayed here</string>
+</resources>
